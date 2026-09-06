@@ -1,0 +1,6 @@
+{
+  "name": "PromptGenius AI",
+  "description": "Create powerful AI prompts for ChatGPT, Gemini, image generation, video generation, YouTube, social media, business and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
